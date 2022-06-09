@@ -1,8 +1,8 @@
 ================================
 =Icecovery's Chinese Spacecraft Pack==
 ================================
-===========Version V1.3===========
-============20220604============
+===========Version V1.4===========
+============20220610============
 ================================
 
 Author:Icecovery
@@ -11,6 +11,11 @@ Co-Author: Armor00
 License:CC BY-SA-4.0
 
 Changelog:
+
+-1.4(20220610):
+-Add Localization File for English Users
+-Some minor fix for cfgs
+-Fix the Problem on Chinese Universal Docking Port
 
 -1.3(20220604):
 -Support KSP version 1.12.3
