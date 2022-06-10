@@ -1,7 +1,7 @@
 ================================
 =Icecovery's Chinese Spacecraft Pack==
 ================================
-===========Version V1.4===========
+===========Version V1.4.1===========
 ============20220610============
 ================================
 
@@ -11,6 +11,9 @@ Co-Author: Armor00
 License:CC BY-SA-4.0
 
 Changelog:
+
+-1.4.1
+-Folder name fix
 
 -1.4(20220610):
 -Add Localization File for English Users
